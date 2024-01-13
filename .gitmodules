@@ -1,0 +1,3 @@
+[submodule "upstream-spec"]
+	path = upstream-spec
+	url = https://github.com/WebAssembly/spec.git
